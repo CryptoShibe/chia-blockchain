@@ -10,7 +10,14 @@ MARMOT = {
     "symbol": "MRMT",
 }
 
+CRYPTOSHIBE-GOLD = {
+    "asset_id": "a2cadb541cb01c67c3bcddc73ecf33c8ffa37b0d013688904b2747cede020477",
+    "name": "CRYPTOSHIBE-GOLD",
+    "symbol": "CSH",
+}
+
 DEFAULT_CATS = {
     SPACEBUCKS["asset_id"]: SPACEBUCKS,
     MARMOT["asset_id"]: MARMOT,
+    CRYPTOSHIBE-GOLD["asset_id"]: CRYPTOSHIBE-GOLD,
 }
